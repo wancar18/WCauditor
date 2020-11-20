@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  companies: one
+  name: MyString
+  crc: 1
+  cvm: MyString
+  integer: MyString
+
+two:
+  companies: two
+  name: MyString
+  crc: 1
+  cvm: MyString
+  integer: MyString

@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  balancetes: one
+  code: 1
+  descrition: MyString
+  group: 1
+  codeRed: 1
+
+two:
+  balancetes: two
+  code: 1
+  descrition: MyString
+  group: 1
+  codeRed: 1
